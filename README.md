@@ -1,2 +1,21 @@
 # portfolio
-My personal website reflecting on my journey as a  software engineer
+
+# General Overview
+My personal website reflecting on my journey as a full-stack software engineer.
+
+# Github 
+
+## Git Repository
+
+https://github.com/Alexander96779/portfolio.git
+
+## Built With
+
+1. React
+2. Redux
+3. SCSS
+4. Firebase/Firestore
+
+## Author
+
+- Alexandre NIYIGENA
