@@ -9,6 +9,10 @@ My personal website reflecting on my journey as a full-stack software engineer.
 
 https://github.com/Alexander96779/portfolio.git
 
+## Client hosted on Heroku
+
+https://niyalexandre.herokuapp.com/
+
 ## Built With
 
 1. React
