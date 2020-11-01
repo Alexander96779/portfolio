@@ -5,10 +5,10 @@ class Navbar extends Component {
         return(
     <nav className="navbar navbar-expand-md navbar-light fixed-top py-2">
             <div className="container">
-                <a href="https://www.linkedin.com/in/alexandre-niyigena-0238171a5/" className="navbar-brand">
+                <a href="https://www.linkedin.com/in/alexandre-niyigena-0238171a5/" className="navbar-brand" target="_blank" rel="noopener noreferrer">
                     <i class="fa fa-linkedin-square" aria-hidden="true"></i>
                 </a>
-                <a href="https://github.com/Alexander96779" className="navbar-brand">
+                <a href="https://github.com/Alexander96779" className="navbar-brand" target="_blank" rel="noopener noreferrer">
                     <i class="fa fa-github-square" aria-hidden="true"></i>
                 </a>
                 <button className="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
