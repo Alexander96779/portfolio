@@ -253,8 +253,7 @@ class LandingPage extends Component {
                     and their properties easily and allows customers to buy school materials online.
                     </p>
                     <p><b>Technologies used:</b></p>
-                    <p>- Javascript(React Js, Redux), Firebase(Cloud Firestore, Cloud functions,
-                      Cloud Nessaging), Bootstrap, CSS, HTML.
+                    <p>- Javascript(React Js, Redux), Firebase(Cloud Firestore), Bootstrap, CSS, HTML.
                     </p>
                     <a href="https://github.com/Alexander96779/stationary-firebase" className="btn btn-dark btn-block" target="_blank" rel="noopener noreferrer">
                         <i className="fa fa-github"></i> View Code
