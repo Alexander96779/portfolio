@@ -214,6 +214,8 @@ class LandingPage extends Component {
                     <p>- Javascript(ReactJs, Redux, NodeJs, Express Js for REST API ), PostgreSQL(Sequelize),
                     HTML, SASS, CSS.
                     </p>
+                        </div>
+                        <div className="card-footer">
                     <a href="https://github.com/Alexander96779/bc-frontend" className="btn btn-dark btn-block" target="_blank" rel="noopener noreferrer">
                         <i className="fa fa-github"></i> View Code
                     </a>
@@ -255,10 +257,12 @@ class LandingPage extends Component {
                     <p><b>Technologies used:</b></p>
                     <p>- Javascript(React Js, Redux), Firebase(Cloud Firestore), Bootstrap, CSS, HTML.
                     </p>
+                  </div>
+                    <div className="card-footer">
                     <a href="https://github.com/Alexander96779/stationary-firebase" className="btn btn-dark btn-block" target="_blank" rel="noopener noreferrer">
                         <i className="fa fa-github"></i> View Code
                     </a>
-                        </div>
+                    </div>
                     </div>
                 </div>
                 <div className="col-lg-4 col-md-6 py-1">
@@ -293,11 +297,13 @@ class LandingPage extends Component {
                     pay and be able to visit desired places here in Rwanda.
                     </p>
                     <p><b>Technologies used:</b></p>
-                    <p>- PHP, Bootstrap, CSS, HTML, MySQL</p>
-                    <a href="https://github.com/Alexander96779/" className="btn btn-dark btn-block mt-5 otta-btn" target="_blank" rel="noopener noreferrer">
+                    <p>- PHP, Bootstrap, CSS, HTML, MySQL.</p>
+                  </div>
+                  <div className="card-footer">
+                  <a href="https://github.com/Alexander96779/" className="btn btn-dark btn-block" target="_blank" rel="noopener noreferrer">
                         <i className="fa fa-github"></i> View Code
                     </a>
-                        </div>
+                  </div>
                     </div>
                 </div>
             </div>
