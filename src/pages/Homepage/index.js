@@ -101,6 +101,7 @@ class LandingPage extends Component {
                         problems by writing clean and well tested codes to ensure sustainability of built
                         applications.
                     </p>
+                    <p className="lead"><b>I am currently building web apps at<a href="https://www.reg.rw/index.php?id=2" className="text-danger text-decoration-none" target="_blank" rel="noopener noreferrer"> REG/EUCL</a>.</b></p>
                     <a href="#contact" className="btn btn-light btn-rounded">
                         Interested? Hire me
                     </a>
@@ -180,8 +181,11 @@ class LandingPage extends Component {
         <div className="row">
                 <div className="col-lg-4 col-md-6 py-1">
                     <div className="card bg-light">
+                      <div className="card-header">
+                      <h5>Broadcaster</h5>
+                      </div>
                         <div className="card-body">
-                        <div id="slider2" className="carousel slide" data-ride="carousel">
+                        <div id="slider1" className="carousel slide" data-ride="carousel">
           <div className="carousel-inner" role="listbox">
             <div className="carousel-item active">
             <img src={broadcaster} className="img-fluid w-100 mb-3" alt="First Slide" />
@@ -199,14 +203,13 @@ class LandingPage extends Component {
               <img className="img-fluid w-100 mb-3" src={broadcaster4} alt="Third Slide" />
             </div>
           </div>
-          <a href="#slider2" className="carousel-control-prev" data-slide="prev">
+          <a href="#slider1" className="carousel-control-prev" data-slide="prev">
             <span className="carousel-control-prev-icon"></span>
           </a>
-          <a href="#slider2" className="carousel-control-next" data-slide="next">
+          <a href="#slider1" className="carousel-control-next" data-slide="next">
             <span className="carousel-control-next-icon"></span>
           </a>
         </div>
-                    <h5 className="text-left">Broadcaster</h5>
                     <p>Broadcaster enables any/every citizen to bring any form of 
                     corruption to the notice of appropriate authorities and the general public.
                     </p>
@@ -224,6 +227,9 @@ class LandingPage extends Component {
                 </div>
                 <div className="col-lg-4 col-md-6 py-1">
                     <div className="card bg-light">
+                    <div className="card-header">
+                    <h5 className="text-left">Stationery MIS</h5>
+                      </div>
                         <div className="card-body">
                         <div id="slider2" className="carousel slide" data-ride="carousel">
           <div className="carousel-inner" role="listbox">
@@ -250,7 +256,6 @@ class LandingPage extends Component {
             <span className="carousel-control-next-icon"></span>
           </a>
         </div>
-                    <h5 className="text-left">Stationary MS</h5>
                     <p>Stationery management system enables stationeries to manage transactions 
                     and their properties easily and allows customers to buy school materials online.
                     </p>
@@ -267,8 +272,11 @@ class LandingPage extends Component {
                 </div>
                 <div className="col-lg-4 col-md-6 py-1">
                     <div className="card bg-light">
+                      <div className="card-header">
+                      <h5 className="text-left">Tours and Travel MIS</h5>
+                      </div>
                         <div className="card-body">
-                        <div id="slider2" className="carousel slide" data-ride="carousel">
+                        <div id="slider3" className="carousel slide" data-ride="carousel">
           <div className="carousel-inner" role="listbox">
             <div className="carousel-item active">
             <img src={homepage} alt="First Slide" className="img-fluid w-100 mb-3 ml-0" />            </div>
@@ -285,14 +293,13 @@ class LandingPage extends Component {
               <img className="img-fluid w-100 mb-3" src={otta3} alt="Third Slide" />
             </div>
           </div>
-          <a href="#slider2" className="carousel-control-prev" data-slide="prev">
+          <a href="#slider3" className="carousel-control-prev" data-slide="prev">
             <span className="carousel-control-prev-icon"></span>
           </a>
-          <a href="#slider2" className="carousel-control-next" data-slide="next">
+          <a href="#slider3" className="carousel-control-next" data-slide="next">
             <span className="carousel-control-next-icon"></span>
           </a>
         </div>
-                    <h5 className="text-left">Tours and Travel MS</h5>
                     <p>Online tours and travel agency management system allows tourists to book trips,
                     pay and be able to visit desired places here in Rwanda.
                     </p>
